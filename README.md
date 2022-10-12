@@ -8,7 +8,6 @@
     - Inspiration
     - What is it? And why?
     - How it works?
-  - Contact / How to contribute
   - Questionary Page
   - Results Page
 - Define licence
@@ -22,6 +21,8 @@
 - Questionary at multiple devices
 - Auto roll screen when anwsering the questions, search about good UX with questionaries
 - Audio reading the questions (accessibility)
+- Show only in common items. Other quest for dreams they could do together
+- Contact / How to contribute
 
 ## Getting Started with Create React App
 
